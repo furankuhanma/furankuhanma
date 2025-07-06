@@ -5,12 +5,9 @@
 
 ### 🏆 Highlights & Achievements
 
-- 🧠 Built over **30+ automation systems** with **Make.com** and **n8n**  
-- ⚙️ Developed scalable full-stack AI tools for startups and indie clients  
-- 💬 Created AI chat agents integrated with real-time databases & APIs  
-- 🪄 Delivered **hands-free lead gen, client onboarding, and email campaigns** via automation  
-- 🔐 Set up secure authentication and session handling using Supabase + React  
-- 📈 Helped boost team productivity by **30%+** through automated workflows  
+- 🧠 Built over **10+ automation systems** with **Make.com** and **n8n**    
+- 💬 Created AI chat agents integrated with real-time databases & APIs, that can be used
+for hotel customer support and handle bookings schedules.  
 
 ---
 
@@ -21,7 +18,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
