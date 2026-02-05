@@ -37,9 +37,12 @@
 ---
 
 ### 📈 GitHub Stats 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furankuhanma&show_icons=true&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com?user=furankuhanma&theme=radical&date_format=M%20j%5B%2C%20Y%5D) 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furankuhanma&show_icons=true&theme=radical&hide=issues) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furankuhanma&layout=compact&theme=radical)
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furankuhanma&show_icons=true&theme=radical&hide=issues&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furankuhanma&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furankuhanma&layout=compact&theme=radical&hide_border=true)
+
+
 
 
