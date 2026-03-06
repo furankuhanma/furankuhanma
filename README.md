@@ -1,8 +1,6 @@
-# Hey, I'm Frank 👋
+# I'm Frank 
 
 Full-stack developer who builds things end-to-end — from the UI to the database. I work mostly with **React** (Vite & Expo) on the frontend and **Node.js + Express** on the backend, with whatever database fits the project.
-
-I'm not a 10x developer. I'm someone who cares about shipping real things that actually work, writing code I won't be embarrassed by in 6 months, and improving consistently.
 
 ---
 
