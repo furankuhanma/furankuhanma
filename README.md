@@ -30,7 +30,7 @@ Full-stack developer who builds things end-to-end — from the UI to the databas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furankuhanma&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furankuhanma&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furankuhanma&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ---
 
